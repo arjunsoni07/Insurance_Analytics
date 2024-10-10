@@ -1,4 +1,5 @@
 # Insurance Analytics
 # Project Overview
-This project centers on the Ahmedabad Branch of an insurance firm, providing detailed analysis of new business, cross-sell, and renewal targets and achievements. Key performance indicators (KPIs) such as invoice counts, meeting frequency, open opportunities, and conversion ratios are tracked and visualized. The dashboard supports the corporate team in evaluating branch-level performance, identifying growth areas, and making informed decisions to enhance sales strategies.
-The project is built using SQL, Excel, and Power BI for data analytics and visualization.
+**The Insurance analysis project analyzes and process individual performance within the branch ahmedabad.**
+**The analysis was done in PowerBI and it highlights the target of each executive. Further analysis of achievements in two categories -placed and invoiced achievements both calculated through sub-categories new, cross-sell and renewal.**
+**Then the percentage of achievements was calculated using the previous steps. The report include the necessary KPIs	such as yearly meeting count, total meeting conducted by each account executive , cross - sell , new and renewal charts ,number of invoices by an account executive , open opportunities and more.**
