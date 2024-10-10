@@ -16,3 +16,13 @@ To build an interactive dashboard for the Ahmedabad branch that provides insight
 4. Stage Funnel by Revenue.
 5. Meetings by Account Executive.
 6. Top Open Opportunities.
+
+# Tools and Technologies
+
+**SQL:** For querying the database to extract and manipulate data.
+
+**Excel:** For creating pivot charts and analyzing data from SQL queries.
+
+**Power BI:** For building interactive dashboards to visualize the data.
+
+**Tableau:** For building dashboard and data driven decisions.
