@@ -30,9 +30,11 @@ To build an interactive dashboard for the Ahmedabad branch that provides insight
 # MYSQL Queries and Solutions
 
 1. Number of Invoices by Account Executive.
+   
 Measures the sales activity and productivity of each account executive by tracking the number of invoices generated, which can indicate successful deal closures and client engagements.
 
-2. Yearly Meeting Count
+3. Yearly Meeting Count
+   
 Tracks the total number of client meetings held annually, reflecting engagement efforts and the team’s commitment to relationship-building, which can drive retention and upsell opportunities.
 
 ![Sql kpi 1 and 2](https://github.com/user-attachments/assets/4556fe23-f7e2-4847-b87c-7f56972b6ca2)
