@@ -110,13 +110,13 @@ Objective: Close the gap between New Business targets and actual performance.
 
 Action: Review lead generation sources, target market alignment, and conversion techniques. Invest in targeted training for account executives focusing on new business, especially in areas like value propositioning, objection handling, and competitor differentiation. Experiment with marketing and outreach tactics to attract better-aligned leads.
 
-**3.Replicate Cross-sell Success and Expand Offerings:**
+**3. Replicate Cross-sell Success and Expand Offerings:**
 
 Objective: Build on strong cross-sell performance to maximize revenue from the existing client base.
 
 Action: Develop and promote bundled offerings or upsell options that leverage insights from recent successful cross-sell deals. Encourage account executives to deepen relationships with clients and prioritize cross-sell strategies, especially for clients who have shown a history of purchasing multiple policies.
 
-**4.Standardize Client Engagement Practices Across Account Executives:**
+**4. Standardize Client Engagement Practices Across Account Executives:**
 
 Objective: Reduce variability in performance across account executives by sharing best practices.
 
