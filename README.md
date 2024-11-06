@@ -39,6 +39,26 @@ Tracks the total number of client meetings held annually, reflecting engagement 
 
 ![Sql kpi 1 and 2](https://github.com/user-attachments/assets/4556fe23-f7e2-4847-b87c-7f56972b6ca2)
 
+**3.Target vs. Achieved for New Business, Cross-sell, and Renewals**
+
+Compares set targets with actual achieved revenue across new client acquisition, cross-sell, and renewals, revealing strengths and areas needing improvement within the business growth strategy.
+
+![Sql Kpi3](https://github.com/user-attachments/assets/04c7951c-9357-45db-b981-ad6637bf5b94)
+
+**4.Stage Funnel by Revenue**
+
+Shows the distribution of potential revenue across different sales funnel stages, highlighting bottlenecks and areas where leads may be stalling or moving toward successful closure.
+
+**5.Meetings by Account Executive**
+
+Monitors the engagement frequency of each account executive with clients, helping to identify proactive team members and those who may need support in client relationship management.
+
+**6.Top Open Opportunities**
+
+Lists high-value sales opportunities that are still in progress, identifying accounts that could significantly impact revenue if successfully closed.
+
+![Sql Kpi 4,5,6](https://github.com/user-attachments/assets/4225013d-31bf-4916-9108-358cb64d34b1)
+
 
 
 
